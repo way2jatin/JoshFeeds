@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JoshFeeds</string>
+    <string name="loading_message">Please Wait</string>
+</resources>

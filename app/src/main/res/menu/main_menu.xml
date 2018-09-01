@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/menu_main_likes"
+        app:showAsAction="never"
+        android:title="Sort by Likes" />
+    <item
+        android:id="@+id/menu_main_views"
+        app:showAsAction="never"
+        android:title="Sort by Views" />
+    <item
+        android:id="@+id/menu_main_shares"
+        app:showAsAction="never"
+        android:title="Sort by Shares" />
+
+    <item
+        android:id="@+id/menu_main_date"
+        app:showAsAction="never"
+        android:title="Sort by Date" />
+</menu>
